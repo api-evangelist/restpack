@@ -1,0 +1,32 @@
+aid: restpack
+name: Restpack
+description: "Provides screenshot, HTML to PDF and content extraction APIs"
+url: https://restpack.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: Restpack
+    description: "Provides screenshot, HTML to PDF and content extraction APIs"
+    humanURL: https://restpack.io/
+    baseURL: https://restpack.io/
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://restpack.io/
+common:
+  - type: Website
+    url: https://restpack.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
