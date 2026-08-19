@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/restpack.p
 name: Restpack
 description: "Provides screenshot, HTML to PDF and content extraction APIs"
 url: https://restpack.io/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
