@@ -33,13 +33,13 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - Screenshots
+  - PDF
 apis:
   - name: Restpack
     description: "Provides screenshot, HTML to PDF and content extraction APIs"
     humanURL: https://restpack.io/
-    baseURL: https://restpack.io/
     tags:
       - Documents And Productivity
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
