@@ -40,7 +40,8 @@ apis:
   - name: Restpack
     description: "Provides screenshot, HTML to PDF and content extraction APIs"
     humanURL: https://restpack.io/
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
